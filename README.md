@@ -1,4 +1,4 @@
-# Lesson 2.6: Class Attributes
+# Lesson 2.4: Class Attributes
 
 ## 🎯 Objectives
 - Understand and use class attributes in HTML and CSS to style specific elements.
